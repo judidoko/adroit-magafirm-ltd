@@ -144,14 +144,16 @@
 .slick-slider {
   margin: 0 -15px;
 }
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 834px) {
   .slick-arrow .next {
     top: 0;
     right: 0;
+    display: none;
   }
   .slick-arrow .prev {
     top: 0;
     left: 85%;
+    display: none;
   }
   .heading-title {
     max-width: 100%;

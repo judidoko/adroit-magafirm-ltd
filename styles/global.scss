@@ -289,7 +289,7 @@ footer {
   }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 834px) {
   .banner {
     .container {
       @include flex(center, none, column);
@@ -346,6 +346,36 @@ footer {
         }
       }
       flex-direction: column;
+    }
+  }
+  footer {
+    .connect span {
+      font-size: 14px;
+      letter-spacing: 0;
+    }
+  }
+}
+
+@media screen and (max-width: 430px) {
+  .hero {
+    .hero-title {
+      font-size: $xl-7;
+      line-height: normal;
+      font-weight: 800;
+      margin: $xl-6 0;
+    }
+    .sub-heading {
+      display: block;
+      justify-content: center;
+    }
+  }
+  footer {
+    .legal {
+      display: block;
+    }
+    .connect span {
+      font-size: 13px;
+      letter-spacing: 0;
     }
   }
 }
