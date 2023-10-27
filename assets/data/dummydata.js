@@ -244,26 +244,38 @@ export const brand = [
 export const teamdata = [
   {
     id: 1,
-    title: "Halima Ibrahim",
+    title: "Rebecca Yero",
     cover: "../images/team1.jpg",
-    post: "ASSISTANT COORDINATOR TRAINING",
+    post: "COORDINATOR & COMMUNICATIONS",
   },
   {
     id: 2,
-    title: "Gloria Bature",
+    title: "Halima Ibrahim",
     cover: "../images/team2.jpg",
-    post: "PUBLIC AND COMMUNITY HEALTH",
+    post: "ASSISTANT COORDINATOR TRAINING",
   },
   {
     id: 3,
-    title: "Fatima Mohammad",
+    title: "Hauwa Msheliza",
     cover: "../images/team3.jpg",
-    post: "REPRODUCTIVE HEALTH",
+    post: "EDUCATION",
   },
   {
     id: 4,
-    title: "Rebecca Yero",
+    title: "Gloria Bature",
     cover: "../images/team4.jpg",
-    post: "COORDINATOR & COMMUNICATIONS",
+    post: "PUBLIC AND COMMUNITY HEALTH",
+  },
+  {
+    id: 5,
+    title: "Fatima Mohammad",
+    cover: "../images/team5.jpg",
+    post: "REPRODUCTIVE HEALTH",
+  },
+  {
+    id: 6,
+    title: "Sarah Abagai",
+    cover: "../images/team6.jpg",
+    post: "NUTRITION",
   },
 ];

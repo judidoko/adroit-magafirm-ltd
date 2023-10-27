@@ -19,10 +19,10 @@ const Header = () => {
         <div className="container">
           <div className="logo">
             <Link href="/">
-              <TitleLogo
-                title="ADROIT MEGAFIRM LTD"
-                // caption="MA"
-                className="logomin"
+              <img
+                src="./images/adroit.png"
+                alt="Logo"
+                style={{ height: "80px", width: "150px" }}
               />
             </Link>
           </div>
