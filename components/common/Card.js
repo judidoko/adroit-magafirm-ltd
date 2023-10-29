@@ -1,6 +1,5 @@
 import Link from "next/link";
 import { TitleSm } from "./Title";
-import { HiOutlineArrowRight } from "react-icons/hi";
 
 export const Card = ({ data, caption, show, path }) => {
   return (
@@ -14,9 +13,8 @@ export const Card = ({ data, caption, show, path }) => {
             <TitleSm title={data.title} />
           </Link>
           {caption && (
-            <h5 href={`${path}/${data.id}`}>
+            <h5 className="sub-title" href={`${path}/${data.id}`}>
               {caption}
-              {/* <HiOutlineArrowRight className="link-icon" /> */}
             </h5>
           )}
           <div className="flex">

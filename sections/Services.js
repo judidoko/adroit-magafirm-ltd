@@ -12,11 +12,11 @@ const Services = () => {
             <TitleSm title="SERVICES" /> <br />
             <br />
             <Title
-              title="Curriculum development and Organizing  seminars and Company retreats for;"
+              title="Curriculum development, Organizing  seminars and Company retreats for;"
               className="title-bg"
             />
             <p>
-              -Schools -Cooperate Organizations -Retreats -Unions --School
+              -Schools -Cooperate Organizations -Retreats -Unions -School
               Proprietors -School teachers -Hospitality Industry Workers,
               -Health Industry Workers -Training and Coaching for Nannies and
               House helps.

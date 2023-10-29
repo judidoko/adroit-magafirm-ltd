@@ -172,7 +172,7 @@ export const expertise = [
   {
     id: 13,
     title: "SECURITY",
-    cover: "../images/security.jpg",
+    cover: "../images/community.jpg",
     desc: [
       {
         text: "Background checks on intended Employees, Nannies and House helps",

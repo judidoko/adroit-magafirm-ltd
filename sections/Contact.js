@@ -1,11 +1,6 @@
 import { Title, TitleSm } from "@/components/common/Title";
 import React from "react";
-import {
-  AiFillBehanceCircle,
-  AiFillInstagram,
-  AiFillLinkedin,
-} from "react-icons/ai";
-import { BiUserCircle } from "react-icons/bi";
+import { AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
 import { BsFacebook } from "react-icons/bs";
 import { FiHeadphones, FiHelpCircle } from "react-icons/fi";
 import { IoLocationOutline } from "react-icons/io5";
@@ -22,7 +17,7 @@ const Contact = () => {
           </div>
           <div className="content py flex1">
             <div className="left w-30">
-              <div className="contact-deatils">
+              <div className="contact-details">
                 <div className="box">
                   <FiHeadphones size={30} className="icons" />
                   <h3>+2340-803-234-5678</h3>
@@ -41,18 +36,10 @@ const Contact = () => {
                   <h3>info@aml.com</h3>
                   <span>Drop us a line anytime!</span>
                 </div>
-                {/* <div className="box">
-                  <BiUserCircle size={30} className="icons" />
-                  <h3>hr@aml.com</h3>
-                  <span>Career at Seven Creative</span>
-                </div> */}
               </div>
               <ul>
                 <li className="icon">
                   <BsFacebook size={25} />
-                </li>
-                <li className="icon">
-                  <AiFillBehanceCircle size={25} />
                 </li>
                 <li className="icon">
                   <AiFillInstagram size={25} />
@@ -65,8 +52,7 @@ const Contact = () => {
             <div className="right w-70">
               <TitleSm title="Make an online enquiry" />
               <p className="desc-p">
-                Got questions? Ideas? Fill out the form below to get our
-                proposal.
+                Got questions? Ideas? Fill out the form below to get in touch.
               </p>
 
               <form>
@@ -80,16 +66,6 @@ const Contact = () => {
                     <input type="text" />
                   </div>
                 </div>
-                {/* <div className="grid-2">
-                  <div className="inputs">
-                    <span>your budget</span>
-                    <input type="text" />
-                  </div>
-                  <div className="inputs">
-                    <span>timeframe</span>
-                    <input type="text" />
-                  </div>
-                </div> */}
                 <div className="inputs">
                   <span>TELL US A BIT ABOUT WHAT YOU WANT*</span>
                   <textarea cols="30" rows="10"></textarea>

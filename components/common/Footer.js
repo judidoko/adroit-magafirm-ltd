@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { TitleLogo } from "./Title";
 import { BsFacebook } from "react-icons/bs";
 import { AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
 import { useRouter } from "next/router";
@@ -18,10 +17,10 @@ const Footer = () => {
         <div className="container">
           <div className="grid-4">
             <div className="logo">
-              <TitleLogo
-                title="ADROIT MEGAFIRM LTD"
-                // caption="7"
-                className="logobg"
+              <img
+                src="./images/adroit.png"
+                alt="Logo"
+                style={{ height: "80px", width: "150px" }}
               />
               <br />
               <span>
@@ -95,11 +94,6 @@ const Footer = () => {
           <div className="legal connect py">
             <div className="text">
               <span>© 2023 ADROIT MEGAFIRM LTD. ALL RIGHTS RESERVED.</span>
-            </div>
-            <div className="connect">
-              <span>JUDDOKO</span>
-              <span> &nbsp; | &nbsp; </span>
-              <span>TERMS & CONDITIONS</span>
             </div>
           </div>
         </div>

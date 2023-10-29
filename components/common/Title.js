@@ -1,4 +1,4 @@
-export const TitleLogo = ({ title, caption, className }) => {
+export const TitleLogo = ({ title, className }) => {
   return <h1 className={`${className}  title-logo`}>{title}</h1>;
 };
 

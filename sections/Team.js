@@ -14,7 +14,7 @@ const Team = () => {
               className="title-bg"
             />
           </div>
-          <div className="grid-4 py">
+          <div className="grid-3 py">
             {teamdata.map((item) => (
               <Card data={item} key={item.id} caption={item.post} />
             ))}

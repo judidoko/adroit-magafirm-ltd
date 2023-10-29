@@ -31,7 +31,7 @@ const Expertise = () => {
             href="/services"
             className={activeLink == "/services" ? "activeLink" : "none"}
           >
-            <button className="button-primary">And more </button>
+            <button className="button-primary more">And more </button>
           </Link>
         </div>
       </section>
