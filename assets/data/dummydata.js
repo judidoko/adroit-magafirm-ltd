@@ -32,7 +32,10 @@ export const expertise = [
       { text: "Career Guidance Counseling" },
       { text: "Nutrition Education and  Counseling" },
       { text: "HIV /TB/Malaria/ Domestic Accidents prevention /Care" },
-      { text: "Pre-pregnancy Counseling." },
+      { text: "Pre-pregnancy Counseling" },
+      { text: "Organizing Trainings for any industry" },
+      { text: "Conducting TOTs " },
+      { text: "Home care givers" },
     ],
   },
 
@@ -56,8 +59,9 @@ export const expertise = [
     desc: [
       { text: "Organizing and hosting teens camps and retreats" },
       { text: "Counseling , sexual and reproductive Health" },
-      { text: "Coaching and training on Parenting the Teens." },
+      { text: "Coaching and training on Parenting the Teens" },
       { text: "SEO" },
+      { text: "Entrepreneurship and  life building skills training" },
     ],
   },
   {
@@ -74,7 +78,7 @@ export const expertise = [
   },
   {
     id: 5,
-    title: "COMMUNITY HEALTH",
+    title: "COMMUNITY CARE",
     cover: "../images/comm.jpg",
     desc: [
       { text: "Community Mobilization and Engagements" },
@@ -96,13 +100,14 @@ export const expertise = [
     title: "HEALTH CARE INDUSTRY",
     cover: "../images/health.jpg",
     desc: [
-      { text: "Trainings for all Professionals" },
-      { text: "Recruitment" },
-      { text: "Appropriate Referral mechanism in Health Care Settings" },
-      { text: "Improving Clients intake" },
-      { text: "Hospital and Community Based Research" },
-      { text: "Infection Prevention and  Control" },
-      { text: "Setting up new facilities/ Facility Assessment" },
+      { text: "Customer Satisfaction and  Care Trainings" },
+      { text: "Effective Communication" },
+      { text: "Quality Control and Facility Auditing" },
+      { text: "Job placements" },
+      { text: "Health Propaganda" },
+      { text: "Referrals" },
+      { text: "Care for the Caregiver" },
+      { text: "Customer Satisfaction Surveys" },
     ],
   },
   {
@@ -136,6 +141,10 @@ export const expertise = [
       { text: "Weaning" },
       { text: "Special care for the girl/ boy child" },
       { text: "Pre-school Care" },
+      { text: "ECCD Early Childhood Care and Development" },
+      { text: "Safeguarding and child protection" },
+      { text: "Care for Our of School Children" },
+      { text: "Gender Based Violence" },
     ],
   },
   {
@@ -175,12 +184,19 @@ export const expertise = [
     cover: "../images/community.jpg",
     desc: [
       {
-        text: "Background checks on intended Employees, Nannies and House helps",
+        text: "Basic Traning",
       },
       { text: "Coaching on Community Policing" },
       {
         text: "Home security tips",
       },
+      {
+        text: "Security Background Checks",
+      },
+      {
+        text: "Setting up Security Systems in homes and industries",
+      },
+      { text: "Forensic Auditing" },
     ],
   },
 ];
@@ -219,10 +235,12 @@ export const brand = [
   {
     id: 1,
     cover: "../images/l1.svg",
+    name: "SPELLBOUND GLOBAL",
   },
   {
     id: 2,
     cover: "../images/l2.svg",
+    name: "NEW LIFESTYLE FOR YOUTHS & LEADER INITIATIVE",
   },
   {
     id: 3,
