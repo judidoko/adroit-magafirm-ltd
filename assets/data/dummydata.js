@@ -83,20 +83,22 @@ export const expertise = [
     desc: [
       { text: "Community Mobilization and Engagements" },
       { text: "Community Education" },
-      { text: "Community Mapping" },
+      { text: "Entrepreneurship" },
+      { text: "Food Production and Preservation Food Security" },
+      { text: "Setting up Cooperatives" },
     ],
   },
+  // {
+  //   id: 6,
+  //   title: "HOSPITALITY INDUSTRY",
+  //   cover: "../images/hosp.jpg",
+  //   desc: [
+  //     { text: "Training on Customer Care" },
+  //     { text: "PR Capacity Building" },
+  //   ],
+  // },
   {
     id: 6,
-    title: "HOSPITALITY INDUSTRY",
-    cover: "../images/hosp.jpg",
-    desc: [
-      { text: "Training on Customer Care" },
-      { text: "PR Capacity Building" },
-    ],
-  },
-  {
-    id: 7,
     title: "HEALTH CARE INDUSTRY",
     cover: "../images/health.jpg",
     desc: [
@@ -111,7 +113,7 @@ export const expertise = [
     ],
   },
   {
-    id: 8,
+    id: 7,
     title: "REPRODUCTIVE HEALTH",
     cover: "../images/rep.jpg",
     desc: [
@@ -121,7 +123,7 @@ export const expertise = [
     ],
   },
   {
-    id: 9,
+    id: 8,
     title: "MOTHER  CARE",
     cover: "../images/mother.jpg",
     desc: [
@@ -131,7 +133,7 @@ export const expertise = [
     ],
   },
   {
-    id: 10,
+    id: 9,
     title: "CHILDCARE",
     cover: "../images/child.jpg",
     desc: [
@@ -148,7 +150,7 @@ export const expertise = [
     ],
   },
   {
-    id: 11,
+    id: 10,
     title: "TEENS AND ADOLESCENTS CARE",
     cover: "../images/teencare.jpg",
     desc: [
@@ -163,7 +165,7 @@ export const expertise = [
     ],
   },
   {
-    id: 12,
+    id: 11,
     title: "CARE OF THE AGED",
     cover: "../images/aged.jpg",
     desc: [
@@ -179,7 +181,7 @@ export const expertise = [
     ],
   },
   {
-    id: 13,
+    id: 12,
     title: "SECURITY",
     cover: "../images/community.jpg",
     desc: [
