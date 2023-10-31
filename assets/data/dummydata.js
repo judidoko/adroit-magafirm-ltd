@@ -162,6 +162,7 @@ export const expertise = [
         text: "Teaching on; Self-esteem building, Self-defense  and Entrepreneurship",
       },
       { text: "Handling peer pressure" },
+      { text: "Entrepreneurship and  life building skills training" },
     ],
   },
   {
