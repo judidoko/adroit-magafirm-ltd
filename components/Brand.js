@@ -19,7 +19,6 @@ const Brand = () => {
                   width="100%"
                   height="100%"
                 />
-                {/* <TitleLogo title={item.name} /> */}
               </div>
             ))}
           </div>

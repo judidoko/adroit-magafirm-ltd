@@ -207,7 +207,7 @@ export const testimonial = [
     name: "Alexander Black",
     // cover: "../images/e1.jpg",
     post: "MONRECCA FOUNDATION - CEO",
-    desc: "Handling the NGO aspect for Adroit Meg Firm has been a memorable experience; Care for the aged & Teens'  Counseling and Carrier guidance - Community Mobilization - Community Nutrition - Parenting Education",
+    desc: "Handling the NGO aspect for Adroit Mega Firm has been a memorable experience; Care for the aged & Teens'  Counseling and Carrier guidance - Community Mobilization - Community Nutrition - Parenting Education",
   },
   {
     id: 2,
@@ -235,30 +235,28 @@ export const testimonial = [
 export const brand = [
   {
     id: 1,
-    cover: "../images/l1.svg",
-    name: "SPELLBOUND GLOBAL",
+    cover: "../images/logo1.jpg",
   },
   {
     id: 2,
-    cover: "../images/l2.svg",
-    name: "NEW LIFESTYLE FOR YOUTHS & LEADER INITIATIVE",
+    cover: "../images/logo2.png",
   },
-  {
-    id: 3,
-    cover: "../images/l3.svg",
-  },
-  {
-    id: 4,
-    cover: "../images/l4.svg",
-  },
-  {
-    id: 5,
-    cover: "../images/l5.svg",
-  },
-  {
-    id: 6,
-    cover: "../images/l6.svg",
-  },
+  // {
+  //   id: 3,
+  //   cover: "../images/l3.svg",
+  // },
+  // {
+  //   id: 4,
+  //   cover: "../images/l4.svg",
+  // },
+  // {
+  //   id: 5,
+  //   cover: "../images/l5.svg",
+  // },
+  // {
+  //   id: 6,
+  //   cover: "../images/l6.svg",
+  // },
 ];
 export const teamdata = [
   {
