@@ -138,14 +138,12 @@ export const expertise = [
     cover: "../images/child.jpg",
     desc: [
       {
-        text: "Child Nutrition and  Feeding Options [Exclusive Breast feeding and Infant Formula",
+        text: "Child Nutrition and  Feeding Options [Exclusive Breast feeding and Infant Formula]",
       },
-      { text: "Weaning" },
       { text: "Special care for the girl/ boy child" },
-      { text: "Pre-school Care" },
+      { text: "Pre-school Care and Weaning" },
       { text: "ECCD Early Childhood Care and Development" },
       { text: "Safeguarding and child protection" },
-      { text: "Care for Our of School Children" },
       { text: "Gender Based Violence" },
     ],
   },
@@ -207,31 +205,31 @@ export const testimonial = [
   {
     id: 1,
     name: "Alexander Black",
-    cover: "../images/e1.jpg",
-    post: "Seven consulting - CEO",
-    desc: "Nunc fermentum - tempus erat ligula, sit amet lacinia justo cursus ac. Suspendisse quis nulla tincidunt! Lorem ipsum dolor amet at ornare ex, quis fringilla tortor! Nunc consectetur feugiat rutrum. Sed rhoncus sapien!",
+    // cover: "../images/e1.jpg",
+    post: "MONRECCA FOUNDATION - CEO",
+    desc: "Handling the NGO aspect for Adroit Meg Firm has been a memorable experience; Care for the aged & Teens'  Counseling and Carrier guidance - Community Mobilization - Community Nutrition - Parenting Education",
   },
   {
     id: 2,
     name: "Diana Green",
-    cover: "../images/e2.jpg",
-    post: "Seven Arts - marketing manager",
-    desc: "Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.",
+    // cover: "../images/e2.jpg",
+    post: "HEALTH BEAM - marketing manager",
+    desc: "The experience of teaching people about their health and seeing them make positive changes in their lives cannot be describe. - Community Health Education - Community Nutrition - Water Sanitation - Environmental Sanitation - Pre Marital medical counseling - HIV Counseling and  Testing - PMTCT.",
   },
-  {
-    id: 3,
-    name: "Alexander Black",
-    cover: "../images/e3.jpg",
-    post: "Seven consulting - CEO",
-    desc: "Nunc fermentum - tempus erat ligula, sit amet lacinia justo cursus ac. Suspendisse quis nulla tincidunt! Lorem ipsum dolor amet at ornare ex, quis fringilla tortor! Nunc consectetur feugiat rutrum. Sed rhoncus sapien!",
-  },
-  {
-    id: 4,
-    name: "Diana Green",
-    cover: "../images/e4.jpg",
-    post: "Seven Arts - marketing manager",
-    desc: "Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.",
-  },
+  // {
+  //   id: 3,
+  //   name: "Alexander Black",
+  //   cover: "../images/e3.jpg",
+  //   post: "Seven consulting - CEO",
+  //   desc: "Nunc fermentum - tempus erat ligula, sit amet lacinia justo cursus ac. Suspendisse quis nulla tincidunt! Lorem ipsum dolor amet at ornare ex, quis fringilla tortor! Nunc consectetur feugiat rutrum. Sed rhoncus sapien!",
+  // },
+  // {
+  //   id: 4,
+  //   name: "Diana Green",
+  //   cover: "../images/e4.jpg",
+  //   post: "Seven Arts - marketing manager",
+  //   desc: "Cras at ornare fermentum quam et tortor euismod, vel maximus metus tristique at ornare ex, quis fringilla tortor. Aenean semper neque quis consectetur lobortis. Quisque nec convallis ex. Aenean ut metus et nunc cursus aliquet.",
+  // },
 ];
 
 export const brand = [

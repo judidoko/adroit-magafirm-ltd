@@ -62,9 +62,9 @@ const Testimonial = () => {
                 <div key={id}>
                   <div className="card">
                     <div className="image">
-                      <div className="img">
+                      {/* <div className="img">
                         <img src={user.cover} alt="" />
-                      </div>
+                      </div> */}
                       <div className="img-text">
                         <h3>{user.name}</h3>
                         <span>{user.post}</span>

@@ -1,16 +1,8 @@
-import { useEffect, useState } from "react";
 import Link from "next/link";
 import { BsFacebook } from "react-icons/bs";
 import { AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
-import { useRouter } from "next/router";
 
 const Footer = () => {
-  const [activeLink, setActiveLink] = useState("");
-
-  const router = useRouter();
-  useEffect(() => {
-    setActiveLink(router.pathname);
-  }, [router.pathname]);
   return (
     <>
       <footer>
@@ -35,7 +27,7 @@ const Footer = () => {
               </span>
               <br />
               <br />
-              <h3>+234 804 234 5678</h3>
+              <h3>+234-803-787-0270</h3>
               <br />
             </div>
             <ul>
@@ -57,7 +49,7 @@ const Footer = () => {
             <ul>
               <h3>SERVICES</h3>
               <li>
-                <Link href="/contact">Training & Development</Link>
+                <Link href="/">Training & Development</Link>
               </li>
               <li>
                 <Link href="/">Productivity</Link>

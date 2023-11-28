@@ -20,7 +20,9 @@ const Contact = () => {
               <div className="contact-details">
                 <div className="box">
                   <FiHeadphones size={30} className="icons" />
-                  <h3>+234-803-234-5678</h3>
+                  <h3>+234-803-787-0270</h3>
+                  <h3>+234-0803-786-2630</h3>
+
                   <span>Call us: Mon - Fri 9:00 AM - 5:00 PM</span>
                 </div>
                 <div className="box">
